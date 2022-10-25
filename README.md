@@ -2,7 +2,7 @@
 A simple app using hacker news api with search feature. 
 **Link to project:** https://hkr-news.netlify.app/
 
-![image]()
+![image](https://github.com/noravgs/hkr-news/blob/main/src/assets/hkrnimg.png?raw=true)
 
 ## How It's Made:
 
