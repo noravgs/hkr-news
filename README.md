@@ -1,6 +1,6 @@
 # Hkr-News
 A simple app using hacker news api with search feature. 
-**Link to project:** https://github.com/noravgs/hkr-news
+**Link to project:** https://hkr-news.netlify.app/
 
 ![image]()
 
